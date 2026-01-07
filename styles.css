@@ -1,0 +1,9 @@
+
+:root{
+  --bg:#f7fafc; --panel:#ffffff; --accent:#2f855a; --text:#1a202c;
+  --muted:#4a5568; --border:#e2e8f0; --canvas:#ffffff;
+}
+body.dark{
+  --bg:#0f172a; --panel:#111827; --accent:#22c55e; --text:#e5e7eb;
+  --muted:#9ca3af; --border:#1f2937; --canvas:#0b1220;
+}
